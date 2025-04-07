@@ -1,3 +1,3 @@
 # playground
 
-Folgende Programme dienen nur zu Übungszwecken und sind nicht nach dem Convetions und Best Practices von Flutter gerichtet.
+Die folgenden Programme dienen ausschließlich Übungszwecken und entsprechen nicht den Konventionen oder Best Practices von Flutter.
